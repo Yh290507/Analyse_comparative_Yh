@@ -1,0 +1,32 @@
+RAPPORT DU COMPARATEUR DE PRIX
+Données fictives fournies pour l'exercice.
+
+Produits comparables (au moins deux boutiques disponibles) : 23
+Boutiques les plus souvent les moins chères :
+- Marché Lagune: 6 fois; écart moyen au minimum 3.79%
+- Baobab Shop: 9 fois; écart moyen au minimum 4.67%
+- Comptoir Ivoire: 10 fois; écart moyen au minimum 2.81%
+
+Top 3 des écarts à comparer :
+- P29 Bouilloire électrique 1,7 L: écart 2,400 FCFA (26.1%), minimum chez Comptoir Ivoire
+- P14 Clé USB SanDisk 64 Go: écart 1,200 FCFA (19.7%), minimum chez Marché Lagune
+- P21 Congélateur Nasco 200 L: écart 24,275 FCFA (16.0%), minimum chez Comptoir Ivoire
+
+Panier demandé :
+- Marché Lagune: 504,300 FCFA
+- Baobab Shop: 491,500 FCFA
+- Comptoir Ivoire: 484,075 FCFA
+- Panier mixte au meilleur prix par article: 477,575 FCFA
+
+Historique (moyenne Black Friday comparée à la moyenne annuelle) :
+- Baobab Shop: 124,579 vs 140,913 FCFA; variation -11.59%
+- Marché Lagune: 143,894 vs 161,978 FCFA; variation -11.16%
+- Comptoir Ivoire: 160,605 vs 154,843 FCFA; variation +3.72%
+
+Performance :
+- Une lecture du fichier: 20876 lignes en 0.009397 s
+- Index mémoire: 76 clés construit en 0.012326 s
+- Recherche naïve: 0.412769 s; recherche par index: 0.000009 s
+- Complexité: index O(H + Q), mémoire O(H); scans imbriqués O(H × Q).
+- Journal de nettoyage: 20 événements.
+- Seuil de surveillance choisi: écart relatif d'au moins 10%.

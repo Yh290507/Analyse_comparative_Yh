@@ -1,0 +1,15 @@
+[
+  {
+    "lignes_historique":20876,
+    "cles_indexees":76,
+    "lecture_unique_secondes":0.009397,
+    "construction_index_secondes":0.012326,
+    "recherche_indexee_secondes":0.000009,
+    "recherche_naive_boucles_secondes":0.412769,
+    "lignes_recuperees_indexees":20876,
+    "lignes_recuperees_naives":20876,
+    "complexite_index":"O(H + Q) temps, O(H) mémoire",
+    "complexite_naive":"O(H × Q) temps",
+    "equivalence":true
+  }
+]

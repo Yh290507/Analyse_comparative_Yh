@@ -1,0 +1,24 @@
+﻿produit_id,produit,boutiques_comparees,prix_marche_lagune_fcfa,prix_baobab_shop_fcfa,prix_comptoir_ivoire_fcfa,prix_moyen_fcfa,prix_min_fcfa,prix_max_fcfa,meilleure_boutique,ecart_fcfa,ecart_pct,a_surveiller
+P29,"Bouilloire électrique 1,7 L",2,,11600.0,9200.0,10400.0,9200.0,11600.0,Comptoir Ivoire,2400.0,26.09,Oui
+P14,Clé USB SanDisk 64 Go,3,6100.0,7300.0,6200.0,6533.33,6100.0,7300.0,Marché Lagune,1200.0,19.67,Oui
+P21,Congélateur Nasco 200 L,2,176000.0,,151725.0,163862.5,151725.0,176000.0,Comptoir Ivoire,24275.0,16.0,Oui
+P11,HP 250 G9 Core i5 8 Go 512 Go,3,390800.0,354200.0,407000.0,384000.0,354200.0,407000.0,Baobab Shop,52800.0,14.91,Oui
+P01,Samsung Galaxy A15 128 Go,2,,104000.0,92990.0,98495.0,92990.0,104000.0,Comptoir Ivoire,11010.0,11.84,Oui
+P20,Réfrigérateur Hisense 205 L,3,186100.0,183000.0,168385.0,179161.67,168385.0,186100.0,Comptoir Ivoire,17715.0,10.52,Oui
+P24,Climatiseur LG 1 CV,3,256600.0,253300.0,279300.0,263066.67,253300.0,279300.0,Baobab Shop,26000.0,10.26,Oui
+P23,TV Hisense 32 pouces,2,,96000.0,88740.0,92370.0,88740.0,96000.0,Comptoir Ivoire,7260.0,8.18,Non
+P12,Lenovo IdeaPad 3 Core i3 8 Go 256 Go,3,309400.0,298200.0,287375.0,298325.0,287375.0,309400.0,Comptoir Ivoire,22025.0,7.66,Non
+P02,Samsung Galaxy A25 128 Go,3,151500.0,142000.0,150300.0,147933.33,142000.0,151500.0,Baobab Shop,9500.0,6.69,Non
+P09,Apple iPhone 13 128 Go,3,433700.0,417200.0,443700.0,431533.33,417200.0,443700.0,Baobab Shop,26500.0,6.35,Non
+P26,"Mixeur Moulinex 1,5 L",2,,30900.0,29200.0,30050.0,29200.0,30900.0,Comptoir Ivoire,1700.0,5.82,Non
+P15,Disque dur externe Seagate 1 To,3,37600.0,38300.0,39500.0,38466.67,37600.0,39500.0,Marché Lagune,1900.0,5.05,Non
+P28,Micro-ondes Samsung 23 L,3,67200.0,65400.0,68500.0,67033.33,65400.0,68500.0,Baobab Shop,3100.0,4.74,Non
+P04,Tecno Spark 20 128 Go,3,77900.0,75000.0,76300.0,76400.0,75000.0,77900.0,Baobab Shop,2900.0,3.87,Non
+P17,Imprimante HP DeskJet 2720e,2,44000.0,45700.0,,44850.0,44000.0,45700.0,Marché Lagune,1700.0,3.86,Non
+P06,Infinix Hot 40i 128 Go,3,69200.0,69500.0,67165.0,68621.67,67165.0,69500.0,Comptoir Ivoire,2335.0,3.48,Non
+P22,TV Samsung 43 pouces Crystal UHD,2,251100.0,244400.0,,247750.0,244400.0,251100.0,Baobab Shop,6700.0,2.74,Non
+P10,Xiaomi Redmi Note 13 128 Go,2,136900.0,134100.0,,135500.0,134100.0,136900.0,Baobab Shop,2800.0,2.09,Non
+P05,Tecno Camon 30 256 Go,2,136900.0,135400.0,,136150.0,135400.0,136900.0,Baobab Shop,1500.0,1.11,Non
+P07,Infinix Note 40 256 Go,2,132400.0,132700.0,,132550.0,132400.0,132700.0,Marché Lagune,300.0,0.23,Non
+P16,Souris sans fil Logitech M185,2,9200.0,,9200.0,9200.0,9200.0,9200.0,Marché Lagune / Comptoir Ivoire,0.0,0.0,Non
+P27,Fer à repasser Philips,2,15700.0,,15700.0,15700.0,15700.0,15700.0,Marché Lagune / Comptoir Ivoire,0.0,0.0,Non
